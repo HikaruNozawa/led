@@ -21,4 +21,4 @@ chmod +x led.bash
 sudo ./led.bash
 
 動画
-https://www.youtube.com/watch?v=bRYKXaON4-w
+https://www.youtube.com/watch?v=Yir_N2tr9F0
